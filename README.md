@@ -40,24 +40,27 @@ This dataset is highly structured and standardized, but there are rooms for furt
 
 ---
 
-## 4. Project Structure
+#### 4. Project Structure
+
 The repository is organized as follows:
-├── PwC Swiss_Call center_Nguyen Khoi Nguyen PHAM_2003 #The main Power BI file
-├── data/: For sample data or data dictionaries
-│ └── 01 Call-Center-Dataset.csv 
-├── dax/ : For dax script including measures
-| └── dax_measures and logics.md
-├── images/: For screenshots of your dashboard
-│ └── Fishbone_Callcenter diagram.png
-│ └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-01.png
-| └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-02.png
-│ └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-03.png
-| └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-04.png
-│ └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-05.png
-| └── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-06.png
-| └── Dataset Call center.png
-| └── date table_dayofweek.png
-| └── Handle time duration 1.png
-| └── Handle time duration 2.png 
-├── .gitignore # Specifies intentionally untracked files
-└── README.md # This file!```
+
+```text
+PwC Swiss_Call center_Nguyen Khoi Nguyen PHAM_2003.pbix   # The main Power BI file
+├── data/                                                 # For the datasets
+│   └── 01 Call-Center-Dataset.csv
+├── dax/                                                  # For DAX script including measures
+│   └── dax_measures and logics.md
+├── images/                                               # For screenshots of my dashboard
+│   ├── Fishbone_Callcenter diagram.png
+│   ├── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-01.png
+│   ├── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-02.png
+│   ├── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-03.png
+│   ├── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-04.png
+│   ├── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-05.png
+│   ├── PwC Swiss_Data Analysis by PBI_Nguyen Khoi Nguyen Pham-06.png
+│   ├── Dataset Call center.png
+│   ├── date table_dayofweek.png
+│   ├── Handle time duration 1.png
+│   └── Handle time duration 2.png
+├── .gitignore                                            # Specifies intentionally untracked files
+└── README.md                                             # This file!
