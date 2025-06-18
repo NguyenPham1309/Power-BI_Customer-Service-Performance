@@ -3,7 +3,7 @@
 **Author:** NGUYEN PHAM
 **Date:** May 14, 2025
 **Contact:** nguyen.pham961309@gmail.com | [https://www.linkedin.com/in/khoinguyenpham/]
-
+You can find the detail work and analysis [here in my blog](https://nguyenphamdp1309.com/job-simulation-1-performance-analysis-for-better-customer-service/)
 ---
 
 ## 1. Introduction & Objectives
